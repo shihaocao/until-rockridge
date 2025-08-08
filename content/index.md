@@ -14,10 +14,12 @@ A shot from Yi Yi that we love -- intimate emotions from paralyzingly far.</div>
 ## Until Rockridge
 Two former lovers reunite by chance on a train ride home and break a long silence between them. As the world rushes past, they revisit the unspoken, caught between holding on and letting go. This is a story of the orbits we navigate with the ones we still love.
 
+We're targeting a run-time of anywhere between 6 to 12 minutes. We expect dialogue to 50 to 70% of the run-time, and cinematic shots / music will be filling the rest.
+
 ## Who we are and why are we making this film?
 - We're a group of romantics, trying to have fun!
 - We want to figure out what happens in *liminal spaces*
-- We are inspired by the emotions from films like *Chunking Express, Hotel Chavelier, Yi YI*.
+- We are inspired by the emotions from films like *Chunking Express, Before Sunrise, Hotel Chevalier, and Yi YI*.
 
 # What are we looking for?
 An actress for *Katherine*:
@@ -30,7 +32,7 @@ An actor for *Mark*:
 - painter
 - dreamer, yearning for something
 
-Someone with expreience with *Audio*:
+Someone with experience with *Audio*:
 - knows how to setup-for and execute re-recorded audio
 - record in loud environments like the BART
 
@@ -88,7 +90,7 @@ An apology.
 
 Please submit your mini-audition for acting on this [google form application](https://forms.gle/wjnqGLDM65fk8ZnK8)!
 
-If you are intersted sound engineering or production staff, **please fill out the same form as above**.
+If you are interested sound engineering or production staff, **please fill out the same form as above**.
 
 # Questions??
 Please reach out directly to shihaocao@gmail.com, kaiyokoo@gmail.com, or nedgarjohn@ucla.edu! Or text us! Or dm on instagram!
