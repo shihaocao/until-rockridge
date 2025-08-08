@@ -54,30 +54,34 @@ Oh and by the way! here are some more shots that inspire us:
 </div>
 
 # Joining the team:
-### If you are interested in acting, please read aloud and record both the male and female lines here:
-<div style="font-family: monospace">
+### If you are interested in acting...
+Please read aloud and record both the example male and female lines here.
+Feel free to add whatever interpretations of the tone or deviations of the lines as you see fit!
+<div style="font-family: monospace; text-align: center">
 
-<p align="center">Katherine:</p>
-Were we ever friends? (Beat) I can’t do this again. 
+<strong>Katherine:</strong><br>
+What are we doing?
 
-<p align="center">Mark:</p>
-I know, me neither.
+<strong>Mark:</strong><br>
+I was trying to be friends again.
 
-I promised myself I would never see you again. 
+<strong>Katherine:</strong><br>
+Were we ever friends?
 
-<p align="center">Katherine:</p>
-Then why did you invite me tonight? (Gesturing) Why are we here. 
+<strong>Mark:</strong><br>
+(small exhale) I’m sorry.
 
-<p align="center">Mark:</p>
-I don’t know (beat) Because it seemed impossible for me to say no.
+<strong>Katherine:</strong><br>
+We both know we can’t do this again. (beat) Why did you come along tonight?
 
-<p align="center">Katherine:</p>
-(Laughing) impossible? Don’t give me that (She looks at him) we all break promises you should know that.
+<strong>Mark:</strong><br>
+I thought… maybe I owed you something.
 
-Marc drops her gaze.
+<strong>Katherine:</strong><br>
+Like what?
 
-<p align="center">Mark:</p>
-(Softly, dropping his gaze) I just wanted to apologize.
+<strong>Mark:</strong><br>
+An apology.
 </div>
 
 ---
@@ -85,3 +89,6 @@ Marc drops her gaze.
 Please submit your mini-audition for acting on this [google form application](https://forms.gle/wjnqGLDM65fk8ZnK8)!
 
 If you are intersted sound engineering or production staff, **please fill out the same form as above**.
+
+# Questions??
+Please reach out directly to shihaocao@gmail.com, kaiyokoo@gmail.com, or nedgarjohn@ucla.edu! Or text us! Or dm on instagram!
