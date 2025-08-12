@@ -14,7 +14,19 @@ A shot from Yi Yi that we love -- intimate emotions from paralyzingly far.</div>
 ## Until Rockridge
 Two former lovers reunite by chance on a train ride home and break a long silence between them. As the world rushes past, they revisit the unspoken, caught between holding on and letting go. This is a story of the orbits we navigate with the ones we still love.
 
-We're targeting a run-time of anywhere between 6 to 12 minutes. We expect dialogue to 50 to 70% of the run-time, and cinematic shots / music will be filling the rest.
+- We're targeting a run-time of anywhere between 6 to 12 minutes. We expect dialogue to 50 to 70% of the run-time, and cinematic shots / music will be filling the rest.
+- Filming/Post-production will likely take place September 2025 - October 2025
+
+## Plot
+The film is split into 5 main scenes.
+1. *Platform* - Introduce Mark and Katherine to their improbable trip home together
+2. *Again* - Is it really you again?
+3. *摸石头过河* - Do you remember what this was like?
+    - It means, crossing the river by feeling for the stones. *If* you can feel the stones, then you can boldly take steps in the right direction, and trust that you'll make it across eventually.
+4. *Ceasefire* - Let me surrender.
+    - We're hoping to catch capture what those ethereal last 2 stops might feel like listening to the songs they used to fall asleep to.
+5. *Rockridge* - Give and take, where do we go now?
+    - We're really excited to double down on long shots here, and see if we can use distance to bring the characters closer.
 
 ## Who we are and why are we making this film?
 - We're a group of romantics, trying to have fun!
@@ -93,4 +105,4 @@ Please submit your mini-audition for acting on this [google form application](ht
 If you are interested sound engineering or production staff, **please fill out the same form as above**.
 
 # Questions??
-Please reach out directly to shihaocao@gmail.com, kaiyokoo@gmail.com, or nedgarjohn@ucla.edu! Or text us! Or dm on instagram!
+Please reach out directly to @shots.by.shihao on instagram!
