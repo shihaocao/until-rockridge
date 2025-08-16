@@ -12,7 +12,8 @@ title: Until Rockridge
 A shot from Yi Yi that we love -- intimate emotions from paralyzingly far.</div>
 
 ## Until Rockridge
-Two former lovers reunite by chance on a train ride home and break a long silence between them. As the world rushes past, they revisit the unspoken, caught between holding on and letting go. This is a story of the orbits we navigate with the ones we still love.
+
+Two former lovers — Mark, a painter, and Katherine, a curator — reunite after a gallery event. On impulse, Mark convinces her to ride the train home together, hoping to finally say what he never could. As the city blurs past, they navigate the pull of old chemistry and the pain of old wounds, trapped between the urge to hold on and the need to let go.
 
 - We're targeting a run-time of anywhere between 6 to 12 minutes. We expect dialogue to 50 to 70% of the run-time, and cinematic shots / music will be filling the rest.
 - Filming/Post-production will likely take place September 2025 - October 2025
