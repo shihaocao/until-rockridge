@@ -70,7 +70,7 @@ Oh and by the way! here are some more shots that inspire us:
 
 # Joining the team:
 ### If you are interested in acting...
-Please read aloud and record both the example male and female lines here.
+Please read aloud and record both the example male and female lines here as a video.
 Feel free to add whatever interpretations of the tone or deviations of the lines as you see fit!
 <div style="font-family: monospace; text-align: center">
 
@@ -101,7 +101,7 @@ An apology.
 
 ---
 
-Please submit your mini-audition for acting on this [google form application](https://forms.gle/wjnqGLDM65fk8ZnK8)!
+Please submit your mini-audition tape for acting on this [google form application](https://forms.gle/wjnqGLDM65fk8ZnK8)!
 
 If you are interested sound engineering or production staff, **please fill out the same form as above**.
 
