@@ -74,29 +74,117 @@ Please read aloud and record both the example male and female lines here as a vi
 Feel free to add whatever interpretations of the tone or deviations of the lines as you see fit!
 <div style="font-family: monospace; text-align: center">
 
-<strong>Katherine:</strong><br>
-What are we doing?
-
 <strong>Mark:</strong><br>
-I was trying to be friends again.
+On the bridge. Do you remember? The first time.<br>
 
 <strong>Katherine:</strong><br>
-Were we ever friends?
+The first time?<br>
 
 <strong>Mark:</strong><br>
-(small exhale) I’m sorry.
+The first time we met. After we had left the party.<br>
 
 <strong>Katherine:</strong><br>
-We both know we can’t do this again. (beat) Why did you come along tonight?
+The Daly's party?<br>
 
 <strong>Mark:</strong><br>
-I thought… maybe I owed you something.
+Yeah.<br>
 
 <strong>Katherine:</strong><br>
-Like what?
+I don't remember a bridge.<br>
 
 <strong>Mark:</strong><br>
-An apology.
+You don't?<br>
+
+<strong>Katherine:</strong><br>
+I remember walking, but I don't remember a bridge.<br>
+
+<strong>Mark:</strong><br>
+It had just rained and the creek was full.<br>
+I was thinking of that. The lights reflected in the river. The lights out there reminded me of it.<br>
+
+<strong>Katherine:</strong><br>
+Maybe you're thinking of someone else.<br>
+
+<strong>Mark:</strong><br>
+I can't be.<br>
+
+<strong>Katherine:</strong><br>
+That would be embarrassing.<br>
+
+<strong>Mark:</strong><br>
+<i>(chuckling)</i><br>
+It would be.<br>
+No I swear it was you. You had on that camel coat. The one you lost in New York.<br>
+
+<strong>Katherine:</strong><br>
+I loved that coat.<br>
+
+<strong>Mark:</strong><br>
+It was cold and you had the fluffy hood up.<br>
+
+<strong>Katherine:</strong><br>
+And you had on that - that thin nylon navy jacket.<br>
+
+<strong>Mark:</strong><br>
+Yes!<br>
+
+<strong>Katherine:</strong><br>
+And I joked that your lips were matching the color of the coat.<br>
+
+<strong>Mark:</strong><br>
+That's right!<br>
+
+<strong>Katherine:</strong><br>
+We weren't on a bridge though.<br>
+
+<strong>Mark:</strong><br>
+We weren't.<br>
+
+<strong>Katherine:</strong><br>
+No. We were on the corner of my street.<br>
+
+<strong>Mark:</strong><br>
+It's so clear.<br>
+
+<strong>Katherine:</strong><br>
+I wouldn't trust your memory.<br>
+
+<strong>Mark:</strong><br>
+Why.<br>
+
+<strong>Katherine:</strong><br>
+I didn't lose that coat - you did.<br>
+
+<strong>Mark:</strong><br>
+Right...<br>
+And you yelled at me on the airplane.<br>
+
+<strong>Katherine:</strong><br>
+Did I?<br>
+
+<strong>Mark:</strong><br>
+In front of everyone.<br>
+
+<strong>Katherine:</strong><br>
+Hmmm I did didn't I.<br>
+It was a really nice coat.<br>
+
+<strong>Mark:</strong><br>
+It was a really nice bridge.<br>
+
+<strong>Katherine:</strong><br>
+Just if I could remember.<br>
+
+<i>(they both laugh)</i><br>
+
+<strong>Mark:</strong><br>
+It was a long time ago.<br>
+
+<strong>Katherine:</strong><br>
+It was...<br>
+
+<i>(They both sigh and catch their breath.)</i><br>
+
 </div>
 
 ---
